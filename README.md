@@ -1,6 +1,9 @@
 <h1 align="center">headless-components</h1>
 <h3 align="center">Unstyled components with built in Talwind CSS like classes</h3>
 
+# Warning
+This documentation ( and project ) are still very early in development. Don't expect everything you see here to be final
+
 ## Why headless-components
 
 ### Easy to use, quickly customized components
