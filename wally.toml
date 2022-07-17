@@ -1,0 +1,10 @@
+[package]
+name = "passhley/headless-components"
+version = "0.1.5"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Base components with string classes implemented similar to Tailwind for easier and quicker writing."
+
+[dependencies]
+Roact = "roblox/roact@1.4.2"
+RoactHooks = "kampfkarren/roact-hooks@0.4.1"
