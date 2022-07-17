@@ -1,5 +1,5 @@
-# headless-components
-Unstyled components with built in TailwindCSS-like classes
+<h1 align="center">headless-components</h1>
+<h3 align="center">Unstyled components with built in Talwind CSS like classes</h3>
 
 ## Why headless-components
 
